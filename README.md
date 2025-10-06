@@ -20,4 +20,18 @@ This is a simple inventory/warehouse management web application built with Flask
 - Used SQLAlchemy ORM and made primary keys simple text UUIDs for portability.
 - Included balance query using SQLAlchemy to compute quantity in each location.
 - Provided a seed script that works with Postgres and SQLite.
+# Screenshots
+Home Page
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/780ab5a7-123f-4f4b-b577-7febba4ebdbe" />
+Products
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/943d1f94-daa7-4be7-8ada-9e559a441250" />
+Location
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3eb0a35a-4fc4-43b0-b05d-67cd267be861" />
+Movements
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d19035b-fa6e-4bcb-bf2f-4ca71b324949" />
+Balance Report
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eb99a2b2-efa8-4041-b6f1-35fa9ffa7510" />
+
+
+
 
